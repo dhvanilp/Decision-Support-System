@@ -20,6 +20,7 @@ jupyter notebook code.ipynb
 ```
 
 ### Windows
+
 ```
 virtualenv venv
 source venv\Scripts\activate
